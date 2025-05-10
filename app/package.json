@@ -13,7 +13,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@chakra-ui/react": "^1.8.8",
+    "@chakra-ui/react": "^2.9.0",
     "@datadog/browser-logs": "^4.11.2",
     "@datadog/browser-rum": "^4.11.2",
     "@didtools/pkh-ethereum": "^0.0.3",
@@ -34,7 +34,7 @@
     "@web3-onboard/react": "^2.2.2",
     "@web3-onboard/walletconnect": "^2.0.5",
     "@web3-onboard/walletlink": "^2.0.4",
-    "broadcast-channel": "^4.11.0",
+    "broadcast-channel": "^7.1.0",
     "did-session": "^2.1.2",
     "framer-motion": "^6.3.0",
     "next": "latest",
