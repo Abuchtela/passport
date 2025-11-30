@@ -37,7 +37,7 @@
     "broadcast-channel": "^4.11.0",
     "did-session": "^2.1.2",
     "framer-motion": "^6.3.0",
-    "next": "latest",
+    "next": "13.5.0",
     "node-fetch": "^3.2.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
